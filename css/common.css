@@ -1,0 +1,106 @@
+
+.TitleEn h2,
+.TitleEn font,
+.TitleEn small,
+.TitleEn span,
+.TitleCh font,
+.TitleCh p,
+.TitleCh span {
+	position: relative;
+	top: -20px;
+	/*opacity: 0;*/
+	transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-webkit-transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-ms-transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-moz-transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+}
+
+.section2_r {
+	position: relative;
+	transform: translateY(-40px);
+	/*opacity: 0;*/
+	transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-webkit-transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-ms-transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-moz-transition: all 0.3s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+}
+
+.section2_r .artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-webkit-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-ms-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-moz-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+}
+.TitleEn h2.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-webkit-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-ms-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-moz-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+}
+
+.TitleEn font.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.2s;
+	-webkit-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.2s;
+	-ms-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.2s;
+	-moz-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.2s;
+}
+
+.TitleEn small.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.4s;
+	-webkit-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.4s;
+	-ms-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.4s;
+	-moz-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.4s;
+}
+
+.TitleEn span.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.6s;
+	-webkit-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.6s;
+	-ms-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.6s;
+	-moz-transition: all 0.5s cubic-bezier(0.35, 0.45, 0.55, 1) 0.6s;
+}
+
+.TitleCh font.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-webkit-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-ms-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-moz-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+}
+
+.TitleCh p.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-webkit-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-ms-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-moz-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+}
+
+.TitleCh span.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-webkit-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-ms-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+	-moz-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0.8s;
+}
+
+.copyright.artive {
+	transform: translateY(0px);
+	opacity: 1;
+	transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-webkit-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-ms-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+	-moz-transition: all 0.8s cubic-bezier(0.35, 0.45, 0.55, 1) 0s;
+}
